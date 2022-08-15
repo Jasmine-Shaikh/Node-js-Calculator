@@ -12,6 +12,7 @@ node index.js operation value1 value2
 
 ```bash
 node index.js operation value1 value2
+
 eg. node index.js add 4 2
 eg. node index.js sub 4 2
 eg. node index.js mult 4 2
@@ -22,6 +23,7 @@ eg. node index.js divide 4 2
 
 ```bash
 node index.js operation value1
+
 eg. node index.js sin 40
 eg. node index.js cos 40
 eg. node index.js tan 40
